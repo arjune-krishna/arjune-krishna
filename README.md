@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arjune Krishna</h1>
 <img align="right" alt="Coding" width="400" src="https://www.edureka.co/blog/wp-content/uploads/2018/08/Insurance-Leadspace-Aniamted.gif">
 
-- 🔭 I’m currently working on **Advanced Machine Learning**
+- 🔭 Machine Learning / Deep Learning / NLP / ComputerVision
 
-- 💬 Ask me about **Python, Statistics and Probability**
+- 💬 Python / HTML / CSS / SQL
 
-- 🌱 I’m currently learning **Deep Learning, Reinforcement Learning**
+- 🌱 More end to end projects coming soon...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
