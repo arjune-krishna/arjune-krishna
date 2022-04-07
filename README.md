@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Arjune Krishna</h1>
-<h3 align="center">A hardworking data science student from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.edureka.co/blog/wp-content/uploads/2018/08/Insurance-Leadspace-Aniamted.gif">
 
 - 🔭 I’m currently working on **Advanced Machine Learning**
