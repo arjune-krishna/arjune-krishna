@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arjune Krishna</h1>
+<h1 align="left">Hi 👋, I'm Arjune Krishna</h1>
 <img align="right" alt="Coding" width="400" src="https://www.edureka.co/blog/wp-content/uploads/2018/08/Insurance-Leadspace-Aniamted.gif">
 
 - 🔭 Machine Learning / Deep Learning / NLP / ComputerVision
@@ -6,6 +6,7 @@
 - 💬 Python / HTML / CSS / SQL
 
 - 🌱 More end to end projects coming soon...
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
